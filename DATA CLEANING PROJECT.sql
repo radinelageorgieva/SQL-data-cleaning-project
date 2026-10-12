@@ -1,6 +1,6 @@
 -- Data cleaning
 
-USE parks_and_recreation;
+USE worlds_layoffs;
 
 SELECT *
 FROM layoffs ;
